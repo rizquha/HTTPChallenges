@@ -7,6 +7,7 @@ using System.Net.Http;
 using HtmlAgilityPack;
 using ScrapySharp;
 using ScrapySharp.Extensions;
+using System.Collections.Generic;
 
 
 namespace KompasNumber5
@@ -15,19 +16,28 @@ namespace KompasNumber5
     {
         public static async Task Main(string[] args)
         {
-            HttpClient client = new HttpClient();
-            HttpRequestMessage requestMessage = new HttpRequestMessage(HttpMethod.Get,"https://www.kompas.com/");
-            HttpResponseMessage responseMessage = await client.SendAsync(requestMessage);
-            var response=await responseMessage.Content.ReadAsStringAsync();
 
             var html = "https://www.kompas.com/";
             HtmlWeb web = new HtmlWeb();
             var htmlDoc = web.Load(html);
-            var nodes =htmlDoc.DocumentNode.CssSelect(".nav__item a[href='https://news.detik.com/?tag_from=wp_firstnav_detikNews']");						
-            foreach(var node in nodes)
+            Console.WriteLine("====================Headlines Kompas.com Pada Tanggal 23 Januari 2020====================");
+
+            var headlines = new List<List<string>>();
+            var node = htmlDoc.DocumentNode.SelectNodes("//a[@class='headline__thumb__link']");
+            foreach(var item in node)
             {
-                Console.WriteLine(node.InnerHtml);
+                var title = item.InnerText;
+                var url = item.GetAttributeValue("href",string.Empty);
+                headlines.Add(new List<string>{title,url});
             }
+            Console.WriteLine("=========================================================================================");
+            foreach(var item in headlines)
+            {
+                Console.WriteLine("Title : "+item[0]);
+                Console.WriteLine("URL : ");
+                Console.WriteLine("       "+item[1]);
+                Console.WriteLine("=========================================================================================");
+            }				
             
         }
     }

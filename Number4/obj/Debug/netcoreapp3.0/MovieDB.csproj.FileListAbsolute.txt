@@ -1,0 +1,13 @@
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\bin\Debug\netcoreapp3.0\MovieDB.exe
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\bin\Debug\netcoreapp3.0\MovieDB.deps.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\bin\Debug\netcoreapp3.0\MovieDB.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\bin\Debug\netcoreapp3.0\MovieDB.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\bin\Debug\netcoreapp3.0\MovieDB.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\bin\Debug\netcoreapp3.0\MovieDB.pdb
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\obj\Debug\netcoreapp3.0\MovieDB.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\obj\Debug\netcoreapp3.0\MovieDB.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\obj\Debug\netcoreapp3.0\MovieDB.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\obj\Debug\netcoreapp3.0\MovieDB.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\obj\Debug\netcoreapp3.0\MovieDB.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number4\obj\Debug\netcoreapp3.0\MovieDB.pdb

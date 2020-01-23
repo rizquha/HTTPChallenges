@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number4\\MovieDB.csproj": {}
+    "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number6\\CGVNumber6.csproj": {}
   },
   "projects": {
-    "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number4\\MovieDB.csproj": {
+    "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number6\\CGVNumber6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number4\\MovieDB.csproj",
-        "projectName": "MovieDB",
-        "projectPath": "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number4\\MovieDB.csproj",
+        "projectUniqueName": "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number6\\CGVNumber6.csproj",
+        "projectName": "CGVNumber6",
+        "projectPath": "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number6\\CGVNumber6.csproj",
         "packagesPath": "D:\\Users\\bsi50129\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number4\\obj\\",
+        "outputPath": "D:\\Users\\bsi50129\\.vscode\\Task Asynchronous\\Number6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -38,12 +38,6 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
