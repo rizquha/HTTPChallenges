@@ -1,0 +1,15 @@
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\PostUserNumber3.exe
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\PostUserNumber3.deps.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\PostUserNumber3.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\PostUserNumber3.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\PostUserNumber3.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\PostUserNumber3.pdb
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\obj\Debug\netcoreapp3.0\PostUserNumber3.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\obj\Debug\netcoreapp3.0\PostUserNumber3.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\obj\Debug\netcoreapp3.0\PostUserNumber3.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\obj\Debug\netcoreapp3.0\PostUserNumber3.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\obj\Debug\netcoreapp3.0\PostUserNumber3.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number3\obj\Debug\netcoreapp3.0\PostUserNumber3.pdb

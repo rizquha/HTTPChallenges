@@ -1,0 +1,13 @@
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\bin\Debug\netcoreapp3.0\FetcherNumber1.exe
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\bin\Debug\netcoreapp3.0\FetcherNumber1.deps.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\bin\Debug\netcoreapp3.0\FetcherNumber1.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\bin\Debug\netcoreapp3.0\FetcherNumber1.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\bin\Debug\netcoreapp3.0\FetcherNumber1.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\bin\Debug\netcoreapp3.0\FetcherNumber1.pdb
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\obj\Debug\netcoreapp3.0\FetcherNumber1.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\obj\Debug\netcoreapp3.0\FetcherNumber1.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\obj\Debug\netcoreapp3.0\FetcherNumber1.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\obj\Debug\netcoreapp3.0\FetcherNumber1.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\obj\Debug\netcoreapp3.0\FetcherNumber1.dll
+D:\Users\bsi50129\.vscode\Task Asynchronous\Number1\obj\Debug\netcoreapp3.0\FetcherNumber1.pdb
